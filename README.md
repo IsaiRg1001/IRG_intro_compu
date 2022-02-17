@@ -1,2 +1,2 @@
-# IRG_intro_compu
+# tareagit20209
 Mi primer repositorio de Git_hub en ICO
